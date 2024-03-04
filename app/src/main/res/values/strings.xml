@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mi primera chamba</string>
+    <string name="titulo1">Formulario</string>
+    <string name="nom">Ingresa nombre(s)</string>
+    <string name="constrasena">Ingresa tu contraseña</string>
+    <string name="nip">Ingresa NIP</string>
+    <string name="correo">Ingresa tu correo</string>
+    <string name="tel">Ingresa teléfono</string>
+    <string name="cp">Ingresa CP</string>
+    <string name="mensaje">Ingresa comentarios</string>
+    <string name="fecha">Ingresa fecha</string>
+    <string name="hora">Ingresa hora</string>
+    <string name="codigo">Ingresa código</string>
+    <string name="costo">Ingresa costo</string>
+    <string name="desc">Ingresa descripción</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string-array name="lista_productos">
+        <item>Camisa</item>
+        <item>Calcetines</item>
+        <item>Zapatos</item>
+        <item>Tenis</item>
+        <item>Gorra</item>
+        <item>Pantalon</item>
+        <item>Reloj</item>
+        <item>Chamarra</item>
+        <item>Perfume</item>
+    </string-array>
+</resources>
